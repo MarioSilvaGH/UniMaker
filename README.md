@@ -23,7 +23,6 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 #### UniMaker 1.S
 
 - [x] UniMaker ``[Windows, 32/64-bit]``
-- [x] User guide
 - [x] Customization guide and examples
 
 > [**DOWNLOAD**](https://gamejolt.com/games/unimaker/413202) - Version: ``1.2.3``
@@ -46,9 +45,8 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 
 ## <div align="center">Wiki</div>
 
-If you are looking for a user guide, Q&A or instructions on how to compile the project, see the *Wiki* tab or use one of the links below.
+If you are looking for an **user guide**, **Q&A** or instructions on how to compile the project, see the *Wiki* tab or use one of the links below:
 
-Select which language you want to view the documentation:
 >[**English**](https://github.com/MarioSilvaGH/UniMaker/wiki/English)  
 >[**Português**](https://github.com/MarioSilvaGH/UniMaker/wiki/Portugu%C3%AAs)
 
