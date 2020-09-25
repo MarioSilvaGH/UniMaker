@@ -32,9 +32,9 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 - [**UniMaker DX's Development** (Google Drive)](https://docs.google.com/spreadsheets/d/1LBNlquFfb_48AVD0iN6SuQewGiFuM6X1mUcMkwP1vdY/edit?usp=sharing)
 -  [**★/ UniMaker** (Discord)](https://discord.me/marionetwork) - For sharing courses, themes and more.
 
-## 📖 Wiki 
+## Documentation
 
-If you are looking for an **user guide**, **Q&A** or instructions on how to compile the project, see the *Wiki* tab or use one of the links below:
+If you are looking for an **user guide**, **Q&A** or instructions on **how to compile** the project, see the *Wiki* tab or use one of the links below:
 
 > - [**English**](https://github.com/MarioSilvaGH/UniMaker/wiki/English)
 > - [**Português**](https://github.com/MarioSilvaGH/UniMaker/wiki/Portugu%C3%AAs)
@@ -73,7 +73,7 @@ If you are looking for an **user guide**, **Q&A** or instructions on how to comp
 
 **Extensions**
 * Aouab ``DiscordRPC``
-* Samuel Venable ``FMNS``
+* [Samuel Venable](https://github.com/time-killer-games/DialogModule/) ``FMNS``
 
 ## License
 
@@ -106,3 +106,45 @@ If you are using Windows 8, 8.1 or 10, change the **compatibility mode** to Wind
 [link-discord]: https://invite.gg/ninstar
 [link-blog]: https://ninstars.blogspot.com/p/unimakerbeta.html
 [link-blog2]: https://ninstars.blogspot.com/p/2d-universe.html
+
+### Compiling
+
+In order to compile you will need:
+
+• *Game Maker 8* or *8.1*.
+
+> The source code can be imported into *GameMaker: Studio 1.x*, however you will have to replace obsolete functions manually.
+
+### Credits
+
+**Main Developer**
+* Mario Silva (Nin★)
+
+**Scripts**
+* Mario Silva (Nin★)
+* Hello Fangaming
+
+**Sprites**  
+* BMatSantos
+* Cap'n Coconuts
+* Kopejo
+* Mario Silva (Nin★)
+* Neweegee
+* Sednaiur
+* Shikaternia
+* Squishy Rex
+
+**Songs**
+* Mario Silva (Nin★)
+
+**Level Design**
+* Beta
+	* Mario Silva (Nin★)
+* Concepts
+	* AtomStorm
+	* King Luigi
+	* Lx Xzit
+	* Mario Silva (Nin★)
+	* MallowTheFox
+	* MTHedgehog
+	* Tirentio
