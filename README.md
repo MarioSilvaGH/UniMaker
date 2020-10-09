@@ -28,7 +28,7 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 
 ### Links
 
--  [**★/ UniMaker** (Discord)](https://discord.me/marionetwork) - For sharing courses and themes.
+-  [**★/ UniMaker** (Discord)](https://discord.gg/dvVreDb) - For sharing courses and themes.
 -  [**UniMaker Manual** (Wiki)](https://github.com/MarioSilvaGH/UniMaker/wiki) - User guide, Q&A and instructions on how to compile the project.
 -   [**Source Code** (Main Branch)](https://github.com/MarioSilvaGH/UniMaker/tree/master)
 
@@ -97,7 +97,7 @@ If you are using Windows 8, 8.1 or 10, change the **compatibility mode** to Wind
 
 ### Links
 
--   [**Source Code** (Master)](https://github.com/MarioSilvaGH/UniMaker/tree/master)
+-   [**Source Code** (Main Branch)](https://github.com/MarioSilvaGH/UniMaker/tree/master)
 
 ## Compiling
 
