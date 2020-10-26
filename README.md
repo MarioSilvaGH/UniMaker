@@ -29,16 +29,16 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 ### Links
 
 -  [**★/ UniMaker** (Discord)](https://discord.gg/dvVreDb) - For sharing courses and themes.
--  [**UniMaker Manual** (Wiki)](https://github.com/MarioSilvaGH/UniMaker/wiki) - User guide, Q&A and instructions on how to compile the project.
--   [**Source Code** (Main Branch)](https://github.com/MarioSilvaGH/UniMaker/tree/master)
+-  [**UniMaker Manual** (Wiki)](https://github.com/ninstar/UniMaker/wiki) - User guide, Q&A and instructions on how to compile the project.
+-   [**Source Code** (Main Branch)](https://github.com/ninstar/UniMaker/tree/master)
 
 ## Credits
 
 **Main Developer**
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 
 **Scripts**
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 * Ralphed Bros.
 * Hello Fangaming
 * Gatete Gaming
@@ -46,7 +46,7 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 **Sprites**  
 * Jessé Vieira
 * Kopejo
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 * Neweegee
 * Nicke
 * Sednaiur
@@ -60,7 +60,7 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 * DrumJ8
 * Juska Lampela
 * Laura Catherine
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 * Mayro (marionose1)
 * String Player Gamer
 
@@ -70,7 +70,7 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 
 ## License
 
-Part of this project is licensed under the ***New BSD License***, refer to ``LICENSE.md`` (alternatively this [link](https://github.com/MarioSilvaGH/UniMaker/blob/master/LICENSE.md)) for more information.
+Part of this project is licensed under the ***New BSD License***, refer to ``LICENSE.md`` (alternatively this [link](https://github.com/ninstar/UniMaker/blob/master/LICENSE.md)) for more information.
 
 # 2D Universe
 [![Blog2][badge-blog2]][link-blog2]  
@@ -97,7 +97,7 @@ If you are using Windows 8, 8.1 or 10, change the **compatibility mode** to Wind
 
 ### Links
 
--   [**Source Code** (Main Branch)](https://github.com/MarioSilvaGH/UniMaker/tree/master)
+-   [**Source Code** (Main Branch)](https://github.com/ninstar/UniMaker/tree/master)
 
 ## Compiling
 
@@ -110,39 +110,39 @@ In order to compile you will need:
 ## Credits
 
 **Main Developer**
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 
 **Scripts**
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 * Hello Fangaming
 
 **Sprites**  
 * BMatSantos
 * Cap'n Coconuts
 * Kopejo
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 * Neweegee
 * Sednaiur
 * Shikaternia
 * Squishy Rex
 
 **Songs**
-* Mario Silva (Nin★)
+* Nin★ (NinStar)
 
 **Level Design**
 * Beta
-	* Mario Silva (Nin★)
+	* Nin★ (NinStar)
 * Concepts
 	* AtomStorm
 	* King Luigi
 	* Lx Xzit
-	* Mario Silva (Nin★)
+	* Nin★ (NinStar)
 	* MallowTheFox
 	* MTHedgehog
 	* Tirentio
 
-[badge-size]: https://img.shields.io/github/repo-size/MarioSilvaGH/UniMaker?color=black&label=Size&logo=github&logoColor=white&style=flat-square
-[badge-patreon]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fninstar&label=Patreon&logoColor=white&style=flat-square
+[badge-size]: https://img.shields.io/github/repo-size/ninstar/UniMaker?color=black&label=Size&logo=github&logoColor=white&style=flat-square
+[badge-patreon]: https://img.shields.io/badge/dynamic/json?query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2890526&label=Patreon&logo=patreon&logoColor=white&color=%23e85b46&style=flat-square
 [badge-discord]: https://img.shields.io/discord/574569573458771968?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square
 [badge-blog]: https://img.shields.io/static/v1?color=E87700&label=Blog&logo=blogger&logoColor=white&message=UniMaker&style=flat-square
 [badge-blog2]: https://img.shields.io/static/v1?color=E87700&label=Blog&logo=blogger&logoColor=white&message=2D+Universe&style=flat-square

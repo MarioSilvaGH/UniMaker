@@ -1,4 +1,4 @@
-"UniMaker" and "2D Universe" are created by Mario Silva
+"UniMaker" and "2D Universe" are created by NinStar
 
 "Hello Mario Engine" used in the development of UniMaker (from version 1.0.0 to 1.2.3) and 2D Universe (from version 1.1.0 to 1.2.0) is created and provided by Hello Fangaming
 
