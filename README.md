@@ -12,7 +12,7 @@ An easy-to-use level design tool based on *Super Mario Maker*. Featuring over tw
 
 #### UniMaker 1.S
 
-- [**⬇ DOWNLOAD**](https://gamejolt.com/games/unimaker/413202) - Version: ``1.2.3``
+- [**⬇ DOWNLOAD**](https://ninstario.itch.io/unimaker) - Link Password: ``LisReal`` | Version: ``1.2.3```
 	- [x] Executable ``Windows, 32/64 bit``
 	- [x] 3 Customization examples
 
